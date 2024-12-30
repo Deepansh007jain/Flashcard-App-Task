@@ -1,0 +1,2 @@
+C:/Users/jaind/Desktop/PROJECTS/flashcard/android/app/.cxx/Debug/4g6k2d56/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/jaind/Desktop/PROJECTS/flashcard/android/app/.cxx/Debug/4g6k2d56/armeabi-v7a/CMakeFiles/rebuild_cache.dir

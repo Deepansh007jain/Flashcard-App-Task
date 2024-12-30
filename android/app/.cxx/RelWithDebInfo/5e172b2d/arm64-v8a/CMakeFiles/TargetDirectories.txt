@@ -1,0 +1,2 @@
+C:/Users/jaind/Desktop/PROJECTS/flashcard/android/app/.cxx/RelWithDebInfo/5e172b2d/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/jaind/Desktop/PROJECTS/flashcard/android/app/.cxx/RelWithDebInfo/5e172b2d/arm64-v8a/CMakeFiles/rebuild_cache.dir
